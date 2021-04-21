@@ -1,0 +1,9 @@
+[submodule "protocol_types"]
+	path = protocol_types
+	url = ./protocol_types
+[submodule "serial_proxy"]
+	path = serial_proxy
+	url = ./serial_proxy
+[submodule "suit"]
+	path = suit
+	url = ./suit
